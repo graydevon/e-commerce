@@ -2,6 +2,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-lightsblue)
 
+<img src='./assets/database.png' width= "800px"/> 
+
 ## **Description**
 Back end of my e-commerce site. Using MySql, Sequalize, and Insomnia to allow the User to modiify edits.
 
