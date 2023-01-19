@@ -26,7 +26,7 @@ Back end of my e-commerce site. Using MySql, Sequalize, and Insomnia to allow th
 
 ## **Usage** 
 
-To allow the user to modift data in the database using insomnia. 
+To allow the user to modify data in the database using insomnia. 
 
 ## **Credit**
   * `MySQL 2` npm package: https://www.npmjs.com/package/mysql2
